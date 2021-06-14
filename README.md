@@ -20,7 +20,7 @@ Type the following to get started. You will need to use terminal commands!
 
 ```
 cd lab-terminal-adventure
-node welcome.js
+node welcomeToSurface.js
 ```
 
 ## What is the command line interface? 
