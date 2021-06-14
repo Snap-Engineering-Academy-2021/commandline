@@ -103,5 +103,3 @@ These are just for fun.
 | `say hello`          | Makes the computer say hello (Mac only)      |
 | `cal`                | Shows you a monthly calendar                 |
 | `banner hello`       | Just try it                                  |
-
-If you’re interested in learning more commands, this is a good place to start.
