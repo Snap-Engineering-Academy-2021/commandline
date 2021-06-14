@@ -79,8 +79,8 @@ jhan$ rm -d bad_directory
 | `cd somewhere`       | Go to `somewhere`                            |
 | `cd ..`              | Go to the parent directory                   |
 | `cat file.txt`       | Prints out the contents of `file.txt`        |
-| `python3 file.py`      | Runs `file.py`, python files |
-| `node file.js`      | Runs `file.js`, javscript files |
+| `python3 file.py`      | Runs `file.py`, which is a python file |
+| `node file.js`      | Runs `file.js`, which is a javascript file |
 | `mv old.txt new.txt` | Renames a file from `old.txt` to `new.txt`. Also works for directories. |
 | `mv file.txt dir`    | Moves a file to directory `dir`.             |
 | `mv dir1 dir2`       | Moves `dir1` to `dir2` or renames if `dir2` doesn't exist.          |
