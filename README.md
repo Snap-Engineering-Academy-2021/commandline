@@ -4,10 +4,23 @@ We adapted this tutorial from [Jacob Wolf and Making with Code](https://cs.fable
 
 ## Let's go on an adventure
 
-Type this into your 
+First, let's practice using `brew` to install python3 (we won't be coding in python at all; we just need it for the terminal adventure). Type this into your terminal: 
+
+```
+brew install python
+```
+
+Then, type this into your terminal so you can make a copy of our terminal adventure project: 
 
 ```
 git clone https://github.com/Snap-Engineering-Academy-2021/lab-terminal-adventure.git
+```
+
+Type the following to get started. You will need to use terminal commands!
+
+```
+cd lab-terminal-adventure
+node welcome.js
 ```
 
 ## What is the command line interface? 
