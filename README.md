@@ -14,6 +14,43 @@ It's a text-based way for you to give instructions to your computer. Before we h
 
 ## Some terminal commands to get you started 
 
+#### Commands
+
+Let’s see what goes into a command. Some commands like like pwd (which shows us the path to our current location) appear solo:
+
+```
+jhan$ pwd
+/Users/jwolf/Desktop/cs9
+```
+
+#### Arguments
+
+Other commands require arguments that follow the command. An arguement is a specification for where or what you want the command to run. For example, the cd command requires a path to a directory as an arguement:
+
+```
+jhan$ cd desktop/
+```
+
+Some commands require multiple arguments. mv moves a directory or file to another location and requires two paths as arguements:
+
+```
+jhan$ mv file.txt desktop/
+```
+
+#### Options
+
+Finally, the functionality of commands can often be changed with options which are placed between the command and any arguments the command takes. An option is a minor difference in the way the command works. For example, the rm command normally removes (or deletes) a file:
+
+```
+jhan$ rm bad_file.txt
+```
+
+However, with the -d option, rm will also remove a directory:
+
+```
+jhan$ rm -d bad_directory
+```
+
 | Command              | What it does                                 |
 | --------------       | -------------------------------------------- |
 | `ls`                 | List what's in the current directory.        |
@@ -35,9 +72,15 @@ It's a text-based way for you to give instructions to your computer. Before we h
 | `:q!`          | Quit out of a file or page without saving|
 | `:wq`          | Quit out of a file with saving  |
 
+## Let's go on an adventure
 
+Type this into your 
 
-### More terminal commands
+```
+
+```
+
+## More terminal commands
 These are just for fun. 
 
 | Command              | What it does                                 |
@@ -46,3 +89,5 @@ These are just for fun.
 | `cat sinking.txt | say` | Makes the computer read the text file aloud |
 | `cal`                | Shows you a monthly calendar                 |
 | `banner hello`       | Just try it                                  |
+
+If you’re interested in learning more commands, this is a good place to start.
