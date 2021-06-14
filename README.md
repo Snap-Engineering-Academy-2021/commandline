@@ -31,6 +31,10 @@ It's a text-based way for you to give instructions to your computer. Before we h
 | `rm file.txt`        | removes (deletes) the file `file.txt`        |
 | `rm -d dir`          | removes (deletes) the directory `dir`        |
 | `rm -r dir`          | recursively removes (deletes) the directory `dir` and all subdirectories and files within that directory. **Be careful, this is a powerful tool!** |
+| `man cal`          | Pulls up the reference guide for the command `cal` -- use this to learn about new commands |
+| `:q!`          | Quit out of a file or page without saving|
+| `:wq`          | Quit out of a file with saving  |
+
 
 
 ### More terminal commands
