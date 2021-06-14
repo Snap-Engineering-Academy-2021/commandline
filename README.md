@@ -2,6 +2,14 @@
 
 We adapted this tutorial from [Jacob Wolf and Making with Code](https://cs.fablearn.org/courses/cs9/unit00/labs/lab1_terminal/). :)
 
+## Let's go on an adventure
+
+Type this into your 
+
+```
+git clone https://github.com/Snap-Engineering-Academy-2021/lab-terminal-adventure.git
+```
+
 ## What is the command line interface? 
 
 It's a text-based way for you to give instructions to your computer. Before we had graphical user interfaces (finders, file explorers, windows, icons, etc.), we had the command line interface. It's also known as a terminal or shell!  
@@ -72,13 +80,6 @@ jhan$ rm -d bad_directory
 | `:q!`          | Quit out of a file or page without saving|
 | `:wq`          | Quit out of a file with saving  |
 
-## Let's go on an adventure
-
-Type this into your 
-
-```
-git clone https://github.com/Snap-Engineering-Academy-2021/lab-terminal-adventure.git
-```
 
 ## More terminal commands
 These are just for fun. 
