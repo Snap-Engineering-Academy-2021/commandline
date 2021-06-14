@@ -77,7 +77,7 @@ jhan$ rm -d bad_directory
 Type this into your 
 
 ```
-jhan$ git clone https://github.com/Snap-Engineering-Academy-2021/lab-terminal-adventure.git
+git clone https://github.com/Snap-Engineering-Academy-2021/lab-terminal-adventure.git
 ```
 
 ## More terminal commands
