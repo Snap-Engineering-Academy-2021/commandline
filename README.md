@@ -86,7 +86,6 @@ These are just for fun.
 | Command              | What it does                                 |
 | --------------       | -------------------------------------------- |
 | `say hello`          | Makes the computer say hello (Mac only)      |
-| `cat sinking.txt | say` | Makes the computer read the text file aloud |
 | `cal`                | Shows you a monthly calendar                 |
 | `banner hello`       | Just try it                                  |
 
